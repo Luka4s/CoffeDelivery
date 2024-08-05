@@ -1,4 +1,4 @@
-    <h1>Coffe Delivery<h1/>
+    Coffe Delivery
     Nesse projeto foi desenvolvido para uma cafeteria, onde o usuário pode selecionar os cafés do cardápio e salvar 
     esses pedidos no banco de dados. Foram utilizadas nesse projeto tecnologias como: ReactJs, TypeScript, React-Router-Dom, 
     Styled-Components. Em seguida, parti para o desenvolvimento do Back-End onde optei por um banco MySQL e para a API que
