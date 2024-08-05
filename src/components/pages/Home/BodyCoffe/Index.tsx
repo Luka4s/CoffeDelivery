@@ -155,9 +155,9 @@ export function BodyCoffe() {
           <h1>Menu</h1>
           {/* Cardapio */}
           <OptionsMenu>
-            {listCoffes.map((item) => {
+            {listCoffes.map((item, index) => {
               return (
-                <div>
+                <div key={index}>
                   <CoffesStyled>
                     <ContentCard>
                       <img src={item.coffeImg} alt="" />
